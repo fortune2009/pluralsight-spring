@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "graphiql.enabled",
+      "type": "java.lang.String",
+      "description": "Description for graphiql.enabled."
+    },
+    {
+      "name": "graphiql.endpoint",
+      "type": "java.lang.String",
+      "description": "Description for graphiql.endpoint."
+    },
+    {
+      "name": "graphiql.mapping",
+      "type": "java.lang.String",
+      "description": "Description for graphiql.mapping."
+    }
+  ] }
